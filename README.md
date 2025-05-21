@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go and Computer Networking.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking forward to collaborate on **open source projects.**
 
 - 🔭 I aspire to become a proficient and innovative software engineer, constantly learning and adapting to the latest technological advancements.
 
